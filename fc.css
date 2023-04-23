@@ -1,0 +1,165 @@
+html {
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.name{
+position: absolute;
+width: 138px;
+height: 79px;
+left: 50px;
+top: 61px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+
+color: #000000;
+}
+
+.choice{
+position: absolute;
+width: 600px;
+height: 73px;
+left: 300px;
+top: 10px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 75px;
+
+color: #000000;
+background-color: rgba(56, 186, 255, 0.8);
+padding-left: 21px;
+padding-right: 17px;
+padding-top: 25px;
+padding-bottom: 25px;
+
+border-radius: 35px;
+box-shadow: #000000;
+}
+
+.time{
+position: absolute;
+width: 139px;
+height: 68px;
+right: 50px;
+top: 50px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 63px;
+
+color: #000000;
+
+}
+
+.NA{
+position: absolute;
+width: 217px;
+height: 89px;
+left: 70px;
+top: 300px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+}
+
+.SA{
+position: absolute;
+width: 170px;
+height: 96px;
+left: 210px;
+top: 600px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+}
+
+.E{
+    position: absolute;
+    width: 153px;
+    height: 45px;
+    left: 670px;
+    top: 330px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    
+    color: #000000;    
+}
+
+.A{
+position: absolute;
+width: 117px;
+height: 52px;
+left: 600px;
+top: 500px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+
+}
+
+.AV{
+    position: absolute;
+width: 187px;
+height: 52px;
+left: 1130px;
+top: 725px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+}
+
+.AS{
+    position: absolute;
+width: 94px;
+height: 53px;
+left: 1000px;
+top: 380px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #000000;
+}
