@@ -63,7 +63,7 @@ const crateTempBox = (data) => {
 }
 
 const crateTimeBox = (data) => {
-    const countryContainer = document.querySelector(".city-container");
+    const countryContainer = document.querySelector(".city-time-container");
 
     data.map(
         ({ dateweather }) =>
@@ -81,7 +81,7 @@ const crateTimeBox = (data) => {
 }
 
 const crateAttentBox = (data) => {
-    const countryContainer = document.querySelector(".city-container");
+    const countryContainer = document.querySelector(".city-attent-container");
 
     data.map(
         ({ dateweather }) =>
