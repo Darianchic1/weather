@@ -1,0 +1,187 @@
+html {
+    background-image: url(vu.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.nameofcontinent{
+position: absolute;
+width: 250px;
+height: 39px;
+left: 140px;
+top: 40px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+cursor: pointer;
+color: #FFFFFF;
+}
+
+.back{
+position: absolute;
+width: 93px;
+height: 39px;
+left: 140px;
+top: 80px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+cursor: pointer;
+}
+
+.choice{
+    position: absolute;
+    width: 783px;
+    height: 90px;
+    right: -380px;
+    top: -30px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 85px;
+    line-height: 113px;
+    
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.second{
+    position: absolute;
+    width: 783px;
+    height: 90px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 113px;
+    
+    color: rgb(205, 205, 205);
+    cursor: pointer;
+}
+
+.podlogka{
+    position: absolute;
+    object-fit: cover;
+    object-position: center;
+
+     border: none;
+     border-radius: 21px;
+}
+
+.day{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 170px;
+    top: 250px;
+    border-radius: 21px;
+    align-items: stretch;
+}
+
+.sky{
+    object-fit: contain;
+    object-position: center;
+    height: 60px;
+    width: 60px;
+}
+
+.temp{
+    font-family: 'Raleway';
+    font-style:normal;
+    font-weight: 700;
+    font-size: 36px;
+    margin-left: 20px
+}
+
+.time{
+        font-family: 'Raleway';
+        font-style:italic;
+        font-weight: 700;
+        font-size: 36px;
+        cursor: pointer;
+}
+
+.temps{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 950px;
+    cursor: pointer;
+}
+
+.day:hover {
+    background-color: rgb(191, 191, 191);
+}
+
+
+/*нижняя часть восход-закат*/
+
+.pict{
+    object-fit: contain;
+    object-position: center;
+    height: 60px;
+    width: 60px;
+}
+
+.times{
+    font-family: 'Raleway';
+    font-style:italic;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.small{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.big{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+    margin-top:280px;
+    margin-left: 170px;
+
+    height: 100px;
+    flex-wrap: nowrap;
+}
+
+
+
+.att{
+    position: relative;
+
+    font-family: 'Raleway';
+    font-size: 32px;
+
+    width: 600px;
+
+    top: -85px;
+    left: 530px; 
+}
+
+.attent{
+    cursor: pointer;
+}
+
+
